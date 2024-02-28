@@ -1,7 +1,7 @@
 numpy
 pandas
 streamlit
-base64
+
 matplotlib
 sklearn
 ydata_profiling
